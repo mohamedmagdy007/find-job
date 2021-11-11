@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/find-job/static/css/main.65e80977.chunk.css",
+    "main.js": "/find-job/static/js/main.de0127a4.chunk.js",
+    "main.js.map": "/find-job/static/js/main.de0127a4.chunk.js.map",
+    "runtime-main.js": "/find-job/static/js/runtime-main.7e95ed04.js",
+    "runtime-main.js.map": "/find-job/static/js/runtime-main.7e95ed04.js.map",
+    "static/css/2.d2686639.chunk.css": "/find-job/static/css/2.d2686639.chunk.css",
+    "static/js/2.e6e57bc9.chunk.js": "/find-job/static/js/2.e6e57bc9.chunk.js",
+    "static/js/2.e6e57bc9.chunk.js.map": "/find-job/static/js/2.e6e57bc9.chunk.js.map",
+    "static/js/3.e5755b12.chunk.js": "/find-job/static/js/3.e5755b12.chunk.js",
+    "static/js/3.e5755b12.chunk.js.map": "/find-job/static/js/3.e5755b12.chunk.js.map",
+    "index.html": "/find-job/index.html",
+    "static/css/2.d2686639.chunk.css.map": "/find-job/static/css/2.d2686639.chunk.css.map",
+    "static/css/main.65e80977.chunk.css.map": "/find-job/static/css/main.65e80977.chunk.css.map",
+    "static/js/2.e6e57bc9.chunk.js.LICENSE.txt": "/find-job/static/js/2.e6e57bc9.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/find-job/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/slick-theme.css": "/find-job/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e95ed04.js",
+    "static/css/2.d2686639.chunk.css",
+    "static/js/2.e6e57bc9.chunk.js",
+    "static/css/main.65e80977.chunk.css",
+    "static/js/main.de0127a4.chunk.js"
+  ]
+}
